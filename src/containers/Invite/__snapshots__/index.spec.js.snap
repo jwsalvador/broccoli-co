@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/containers/Invite should render successfully 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <ReduxForm
+    dispatch={[Function]}
+    invite={
+        Object {
+            "isLoading": false,
+          }
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "destroyOnUnmount": true,
+      "dispatch": [Function],
+      "enableReinitialize": false,
+      "forceUnregisterOnUnmount": false,
+      "form": "inviteForm",
+      "getFormState": [Function],
+      "initialValues": undefined,
+      "invite": Object {
+        "isLoading": false,
+      },
+      "keepDirtyOnReinitialize": false,
+      "persistentSubmitErrors": false,
+      "pure": true,
+      "shouldAsyncValidate": [Function],
+      "shouldError": [Function],
+      "shouldValidate": [Function],
+      "shouldWarn": [Function],
+      "touchOnBlur": true,
+      "touchOnChange": false,
+      "updateUnregisteredFields": false,
+      "validate": [Function],
+    },
+    "ref": [Function],
+    "rendered": null,
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "destroyOnUnmount": true,
+        "dispatch": [Function],
+        "enableReinitialize": false,
+        "forceUnregisterOnUnmount": false,
+        "form": "inviteForm",
+        "getFormState": [Function],
+        "initialValues": undefined,
+        "invite": Object {
+          "isLoading": false,
+        },
+        "keepDirtyOnReinitialize": false,
+        "persistentSubmitErrors": false,
+        "pure": true,
+        "shouldAsyncValidate": [Function],
+        "shouldError": [Function],
+        "shouldValidate": [Function],
+        "shouldWarn": [Function],
+        "touchOnBlur": true,
+        "touchOnChange": false,
+        "updateUnregisteredFields": false,
+        "validate": [Function],
+      },
+      "ref": [Function],
+      "rendered": null,
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+    "childContextTypes": Object {
+      "__styled-components__": [Function],
+      "__styled-components__next__": [Function],
+    },
+    "context": Object {
+      "__styled-components__": [Function],
+      "__styled-components__next__": Object {
+        "getTheme": [Function],
+        "subscribe": [Function],
+        "unsubscribe": [Function],
+      },
+      "store": Object {
+        "dispatch": [Function],
+        "getAction": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "isActionDispatched": [Function],
+        "isActionTypeDispatched": [Function],
+        "subscribe": [Function],
+      },
+    },
+  },
+}
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> Should render Header 1`] = `
+.c0 {
+  min-height: 30px;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  z-index: 2;
+  left: 0;
+  color: white;
+  -webkit-transition: background 300ms ease-in;
+  transition: background 300ms ease-in;
+}
+
+<div
+  className="c0"
+>
+  <h2
+    className="MuiTypography-root-1 MuiTypography-title-7 MuiTypography-colorInherit-20"
+  >
+    Lorem Ipsum
+  </h2>
+</div>
+`;
