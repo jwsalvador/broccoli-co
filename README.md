@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+### `npm install`
+
+Installs all dependencies before running the app
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
